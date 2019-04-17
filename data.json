@@ -1,10 +1,10 @@
 [
   {
-    "department": "regents",
-    "amount": 75
+    "name": "regents",
+    "value": 75
   },
   {
-    "department": "agriculture",
-    "amount": 50
+    "name": "agriculture",
+    "value": 50
   }
 ]
