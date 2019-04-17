@@ -1,0 +1,10 @@
+
+ "name": "budget",
+ "children": [
+  {
+   "name": "regents", "value": 50
+  },
+  {
+   "name": "admin", "value": 100
+  }],
+}
