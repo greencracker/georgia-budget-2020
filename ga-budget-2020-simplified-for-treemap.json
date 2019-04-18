@@ -1,0 +1,90 @@
+{
+ "name": "budget",
+ "children": [
+ {
+   "name": "Everything else",
+   "value": 2156100804,
+   "label": 4.066762647
+ },
+ {
+   "name": "Dept of Public Safety",
+   "value": 270902403,
+   "label": 0.510966728
+ },
+ {
+   "name": "Georgia Bureau of Investigation",
+   "value": 287404454,
+   "label": 0.542092325
+ },
+ {
+   "name": "Dept of Natural Resources",
+   "value": 290429358,
+   "label": 0.547797794
+ },
+ {
+   "name": "Dept of Juvenile Justice",
+   "value": 358836013,
+   "label": 0.676824057
+ },
+ {
+   "name": "Dept of Public Health",
+   "value": 698359291,
+   "label": 1.317221103
+ },
+ {
+   "name": "Dept of Early Care and Learning",
+   "value": 847445328,
+   "label": 1.598422021
+ },
+ {
+   "name": "Technical College System",
+   "value": 912685512,
+   "label": 1.721475796
+ },
+ {
+   "name": "Ga Student Finance Commission",
+   "value": 1019340330,
+   "label": 1.922644419
+ },
+ {
+   "name": "Dept of Corrections",
+   "value": 1224215727,
+   "label": 2.309073296
+ },
+ {
+   "name": "General Obligation Debt Sinking Fund ",
+   "value": 1243753873,
+   "label": 2.34592547
+ },
+ {
+   "name": "Dept of Behavioral Health & Developmental Disabilities",
+   "value": 1408568597,
+   "label": 2.656793293
+ },
+ {
+   "name": "Dept of Human Services",
+   "value": 1963882417,
+   "label": 3.704206984
+ },
+ {
+   "name": "Dept of Transportation",
+   "value": 3701269742,
+   "label": 6.981206771
+ },
+ {
+   "name": "University System of Ga",
+   "value": 8216106660,
+   "label": 15.49693577
+ },
+ {
+   "name": "Dept of Education",
+   "value": 12769228158,
+   "label": 24.08487581
+ },
+ {
+   "name": "Dept of Community Health",
+   "value": 15649092261,
+   "label": 29.51677572
+ }
+]
+}
