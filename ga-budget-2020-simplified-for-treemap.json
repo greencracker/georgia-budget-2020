@@ -7,32 +7,32 @@
    "label": 4.066762647
  },
  {
-   "name": "Dept of Public Safety",
+   "name": "Public Safety",
    "value": 270902403,
    "label": 0.510966728
  },
  {
-   "name": "Georgia Bureau of Investigation",
+   "name": "GBI",
    "value": 287404454,
    "label": 0.542092325
  },
  {
-   "name": "Dept of Natural Resources",
+   "name": "Natural Resources",
    "value": 290429358,
    "label": 0.547797794
  },
  {
-   "name": "Dept of Juvenile Justice",
+   "name": "Juvenile Justice",
    "value": 358836013,
    "label": 0.676824057
  },
  {
-   "name": "Dept of Public Health",
+   "name": "Public Health",
    "value": 698359291,
    "label": 1.317221103
  },
  {
-   "name": "Dept of Early Care and Learning",
+   "name": "Early Care and Learning",
    "value": 847445328,
    "label": 1.598422021
  },
@@ -47,7 +47,7 @@
    "label": 1.922644419
  },
  {
-   "name": "Dept of Corrections",
+   "name": "Corrections",
    "value": 1224215727,
    "label": 2.309073296
  },
@@ -57,7 +57,7 @@
    "label": 2.34592547
  },
  {
-   "name": "Dept of Behavioral Health & Developmental Disabilities",
+   "name": "Behavioral Health & Developmental Disabilities",
    "value": 1408568597,
    "label": 2.656793293
  },
